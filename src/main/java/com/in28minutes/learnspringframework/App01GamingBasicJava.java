@@ -7,7 +7,7 @@ import com.in28minutes.learnspringframework.game.GameRunner;
 
 // Example of Tight Coupling
 
-public class AppGamingBasicJava {
+public class App01GamingBasicJava {
 
 	public static void main(String[] args) {
 		
